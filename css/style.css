@@ -1,0 +1,8 @@
+ [class*="col"] {
+    border: 1px solid black;
+ }
+
+.item{
+    height: 200px;
+    background-color: beige;
+}
